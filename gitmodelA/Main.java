@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Hola a tod@s");
 		System.out.println("Cambio Rama Master");
 		System.out.println("Cambio en remoto");
+		System.out.println("Cambios en local");
 		
 	}
 
